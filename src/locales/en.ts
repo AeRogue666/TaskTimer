@@ -1,0 +1,67 @@
+export default {
+  // Main
+  main_content: 'to the main content',
+  home: 'home',
+  about: 'about',
+  title: 'tasks timer',
+  work: 'working time',
+  short: 'short break',
+  long: 'long break',
+  start: 'start',
+  pause: 'pause',
+  validate: 'validate',
+  reset: 'reset',
+  auto: 'auto',
+  manual: 'manual',
+  // Pomodoro timer
+  cycles: 'cycles',
+  cycletype: 'cycle type',
+  newcycle: 'New cycle',
+  // Timer settings
+  settings: 'settings',
+  timersettings_title: 'timer settings',
+  hours: 'hours',
+  minutes: 'minutes',
+  seconds: 'seconds',
+  setcycles_title: 'set cycles',
+  setcycles_subtitle: 'work time + break time',
+  setcycles_number_title: 'set cycles number before taking a long break',
+  inmin: 'in min',
+  // Timer manual cycles
+  cycle_ended: '{type} cycle ended',
+  start_new_cycle: 'cycle ended, did you want to start a new one',
+  yes: 'yes',
+  no: 'no',
+  // Add task
+  addtask_title: 'add task',
+  addtask_name: 'task name',
+  addtask_placeholder: 'add a name to the task',
+  // Edit task
+  edittask_title: 'edit task',
+  edittask_name: 'task name',
+  edittask_placeholder: 'edit task name',
+  edittask_status: 'task status',
+  edittask_status_btn: 'change status',
+  edittask_change_title_btn: 'change task name',
+  edittask_delete_btn: 'delete task',
+  // Tasks list
+  taskslist_title: 'tasks list',
+  taskslist_btn: 'tasks list',
+  taskscompletedlist_btn: 'tasks completed',
+  notask: 'please, add a task',
+  nocompletedtask: 'no task completed',
+  tasks_number: 'tasks',
+  task_available: 'tasks available',
+  task_completed: 'tasks completed',
+  task_settings: '{task} settings',
+  // Tasks completed list
+  deleting_task: 'deleting completed task {task}',
+  // Task status
+  waiting: 'waiting',
+  progress: 'in progress',
+  completed: 'completed',
+  // About page
+  about_title: 'about this project',
+  about_part1: 'This project was made by AurelDev with',
+  about_moreprojects: 'more projects here',
+}

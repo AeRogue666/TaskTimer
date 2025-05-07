@@ -1,0 +1,67 @@
+export default {
+  // Main
+  main_content: 'vers le contenu principal',
+  home: 'accueil',
+  about: 'a propos',
+  title: 'Minuteur de tâches',
+  work: 'travail',
+  short: 'pause courte',
+  long: 'pause longue',
+  start: 'lancer',
+  pause: 'arrêter',
+  validate: 'valider',
+  reset: 'reinitialiser',
+  auto: 'automatique',
+  manual: 'manuel',
+  // Pomodoro timer
+  cycles: 'cycles',
+  cycletype: 'type de cycle',
+  newcycle: 'Nouveau cycle ',
+  // Timer settings
+  settings: 'paramètres',
+  timersettings_title: 'paramètres du minuteur',
+  hours: 'heures',
+  minutes: 'minutes',
+  seconds: 'secondes',
+  setcycles_title: 'Définir les cycles',
+  setcycles_subtitle: 'travail + pause',
+  setcycles_number_title: 'Définir le nombre de cycles avant de prendre une longue pause',
+  inmin: 'en minute',
+  // Timer manual cycles
+  cycle_ended: 'Le cycle {type} est terminé',
+  start_new_cycle: 'cycle terminé, voulez-vous en commencer un autre',
+  yes: 'oui',
+  no: 'non',
+  // Add task
+  addtask_title: 'ajouter une tâche',
+  addtask_name: 'nom de la tâche',
+  addtask_placeholder: 'ajouter un nom à la tâche',
+  // Edit task
+  edittask_title: 'éditer une tâche',
+  edittask_name: 'nom de la tâche',
+  edittask_placeholder: "éditer le nom d'une tâche",
+  edittask_status: 'status de la tâche',
+  edittask_status_btn: 'changer le status',
+  edittask_change_title_btn: 'changer le nom',
+  edittask_delete_btn: 'supprimer la tâche',
+  // Tasks list
+  taskslist_title: 'liste des tâches',
+  taskslist_btn: 'liste des tâches',
+  taskscompletedlist_btn: 'tâches complétées',
+  notask: 'veuillez ajouter une tâche',
+  nocompletedtask: 'aucune tâche complétée',
+  tasks_number: 'tâches',
+  task_available: 'tâches en cours',
+  task_completed: 'tâches complétées',
+  task_settings: 'paramètres de {task}',
+  // Tasks completed list
+  deleting_task: 'supprimer la tâche {task}',
+  // Task status
+  waiting: 'en attente',
+  progress: 'en cours',
+  completed: 'complétée',
+  // About page
+  about_title: 'A propos de ce projet',
+  about_part1: 'Ce projet a été réalisé par AurelDev avec',
+  about_moreprojects: 'Plus de projets ici',
+}
