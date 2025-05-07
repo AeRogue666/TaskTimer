@@ -16,7 +16,6 @@ Available functionalities are:
 - User can configure the default interval configuration; default work session is 25 minutes, short break is 5 minutes and longer break after 4 work sessions is 15 minutes.
 - Application display the current session type (Work, Short Break, Long Break)
 - Application display a tasks list with completion tracking (Waiting, In progress, Completed) and a completed tasks list to keep a track on the tasks
-- It should also track the number of tracked work sessions
 - Application play a sound and visually notify the user when a session ends
 - Application is accessible and visually appealing on both desktop and mobile devices.
 

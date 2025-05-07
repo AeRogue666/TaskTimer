@@ -5,7 +5,7 @@ const props = defineProps({
     timevalue: Number,
 });
 
-const time = ref(props.timevalue), isRunning = ref(false), progressBarWidth = ref('100%');
+const time = ref<any>(props.timevalue), isRunning = ref<boolean>(false), progressBarWidth = ref<string>('100%');
 let timer: number | undefined;
 const formatTime = computed(() => {
     const hours = Math.floor(time.value / 3600), seconds = time.value % 60;
